@@ -1,2 +1,2 @@
 # new_python
-display('hello world')
+display('hello world, Andrei')
